@@ -1,0 +1,66 @@
+Ok  so lets start, who am I ? I am  Alejandro solano
+
+I have a computer engineer degree and a salesforce admin certification
+
+When I finished my computer degree 
+I started to work in financial companies for more less 6 years in IT duties
+about my QA experience
+My first project was with PROS 
+doing UX testing in an app called PPSS 
+my duties were identify issues and risks, 
+test case creation, execution and test case maintain 
+
+After that I worked in a new project for same client, 
+called Quote2Win using salesforce platform so why salesforce, 
+at the beginning of the project we did a POC about some platform as a service providers 
+like cast iron, dynamics and salesforce 
+and the winner was salesforce 
+due its customer relationship management 
+and application development were and are more solid than the other providers, 
+the project was about pricing using salesforce, 
+
+for a while the test task there was over UI, data security and consistence 
+once we got a first client, the test task changed, 
+it was necessary to do other kind of test like load, and stress, 
+for that we used jmeter witch allowed to simulate many users logged at same time doing may operations
+
+once the project started growing in its complexity, 
+the team decided to start thinking in automation, 
+so we started learning selenium, 
+and the first automation project was with selenium IDE 
+which is a tool to record user actions, 
+save and play them in order to validate some assertions, 
+in that time the automation task was not complex but 
+due the Q2W app required more test automation, 
+the QA team decided to use selenium web driver, 
+java as programming language and jenkins  server for continuos integration 
+in order to have night verified builds and have reported bugs at morning
+
+due my experience in software as a service platform, 
+I was moved to a little project for PROS too, 
+in that time I developed automation test using selenium web driver, 
+phyton as programing language plus behave as BDD framework 
+and salesforce as software as a service provided, 
+
+The client requested to do the same automation task for dynamics 
+which is a Microsoft software as a service platform 
+but it was not ended due the client finished the project suddenly
+
+after that I was moved to an IBM project called RCM for softlayer 
+in order to start automation for a web tool that they used as  platform as a service, 
+and due my automation experience, 
+I developed there automation test using selenium web driver, 
+python as programming language, 
+behave and gerkins BDD tools due we needed to share tests with non developers 
+and page object pattern which is an object repository 
+for storing all web elements and actions over those web elements
+
+after that I worked in a  new project for a mobile app for genghis company called speakeasy, 
+there, I learned mobile testing on android and iOS devices 
+once we had a solid mobile app, QA team decided to migrate our manual test to automation, 
+for that we did some research about the best automation tool, 
+Appium was selected, and we started automation tasks using java as programming language 
+Unfortunately the automation project didn’t finished.
+
+
+

@@ -1,6 +1,8 @@
 import Login from "C:/Users/aleja/OneDrive/Documentos/Cypress projects/cy002/cypress/PageObjects/LoginPage.js"
 describe('Page Object Model', () => {
 
+    // user npx cypress run --spec cypress\e2e\PageObjectModel.cy.js                for report
+
     it('get data from feature.json file',() => {
         const ln = new Login();
         cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')

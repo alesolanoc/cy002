@@ -1,6 +1,7 @@
 
 describe('feature json files', () => {
 
+
     it('get data from feature.json file',() => {
         cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
         cy.fixture('orangejson').then((data)=>{

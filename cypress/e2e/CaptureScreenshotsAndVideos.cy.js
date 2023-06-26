@@ -11,6 +11,6 @@ describe('Navigate between pages', () => {
         //automatically capture screenshot when test fail the assertion
         cy.xpath('//a[normalize-space()="Cameras"]').click()
         cy.xpath('//h2[normalize-space()="Cameras"]').should('have.text','Camerasss')
-        // add in terminal npx cypress open cypress\e2e\CaptureScreenshotsAndVideos.cy.js
+        // add in terminal npx cypress run --spec cypress\e2e\CaptureScreenshotsAndVideos.cy.js
     })
 })
